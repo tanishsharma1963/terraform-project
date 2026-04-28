@@ -1,10 +1,10 @@
-# Terraform AWS Project 🚀
+# Terraform AWS Project 
 
-## 📌 Overview
+##  Overview
 
 This project provisions a complete AWS infrastructure using Terraform. It includes networking, compute, and load balancing components.
 
-### 🔧 Resources Created:
+### Resources Created:
 
 * VPC
 * 2 Public Subnets (Multi-AZ)
@@ -17,7 +17,7 @@ This project provisions a complete AWS infrastructure using Terraform. It includ
 
 ---
 
-## ⚙️ Terraform Apply Output
+##  Terraform Apply Output
 
 Apply complete! Resources: 0 added, 2 changed, 0 destroyed.
 
@@ -41,4 +41,9 @@ private_subnet = [
 ]
 
 vpc_id = "vpc-017f6b994e599eca3"
+
+Website Link
+http://my-alb-1325577071.us-east-1.elb.amazonaws.com
+<img width="1440" height="900" alt="Screenshot 2026-04-29 at 1 42 35 AM" src="https://github.com/user-attachments/assets/adbf0966-f32f-48ec-af55-00638598001d" />
+<img width="1439" height="860" alt="Screenshot 2026-04-29 at 1 51 51 AM" src="https://github.com/user-attachments/assets/76d0219a-5e5f-411e-b8db-18f3e41ac4a0" />
 
