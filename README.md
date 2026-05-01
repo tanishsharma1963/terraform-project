@@ -14,6 +14,9 @@ This project provisions a complete AWS infrastructure using Terraform. It includ
 * NAT Gateway
 * EC2 Instances (Private Subnets)
 * Application Load Balancer (ALB)
+* Modular Code Structure
+* Proper Use of Variables
+*  Outputs & Code Clarity 
 
 ---
 
